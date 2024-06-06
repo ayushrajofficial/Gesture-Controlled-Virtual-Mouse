@@ -3,4 +3,3 @@ An Artificial Intelligence (AI)--powered virtual mouse controlled by hand gestur
 
 Skills: OpenCV · Media pipe · Python (Programming Language) · Machine Learning
 
-![Screenshot (80)](https://github.com/ayushrajofficial/Gesture-Controlled-Virtual-Mouse/assets/99070441/05858b0e-a9b8-44cc-a582-ef34a398706e)
